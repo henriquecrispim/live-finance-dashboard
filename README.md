@@ -32,7 +32,7 @@ Ao executar o script, o sistema limpa o terminal a cada ciclo utilizando o `clea
 ### 🚀 Link de Acesso à Versão Interativa
 O arquivo HTML foi estruturado com scripts vetoriais adaptáveis. Pode abrir o painel em ecrã cheio, passar o cursor do rato sobre as fatias do gráfico para auditar os valores exatos em Reais (R$) e isolar ativos clicando na legenda lateral:
 
-👉 **[ABRIR DASHBOARD INTERATIVO EM TELA CHEIA](https://henriquecrispim.github.io/live-finance-dashboard/dashboard_financas_reais (1).html)**
+👉 **[ABRIR DASHBOARD INTERATIVO EM TELA CHEIA](https://henriquecrispim.github.io/live-finance-dashboard/dashboard_financas_reais(1).html)**
 
 ### 📊 Comportamento Operacional das Classes de Ativos:
 * **Segmento de Criptoativos (`BTC` e `ETH`):** Apresentam volatilidade contínua e atualização real dos valores a cada pulso de 10 segundos, independentemente do dia ou horário da execução.
